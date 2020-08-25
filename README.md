@@ -4,7 +4,10 @@ Team: Akuro, Amy, Oluwatobi
 
 
 Topic: //
+
 Goals: //
+
+
 
 
 DAY 1 : 
