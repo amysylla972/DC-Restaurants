@@ -1,7 +1,11 @@
 # Group-Project-1
 
 Team: Akuro, Amy, Oluwatobi
-Focus: //
+
+
+Topic: //
+Goals: //
+
 
 DAY 1 : 
 
