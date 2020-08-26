@@ -3,9 +3,9 @@
 Team: Akuro, Amy, Oluwatobi
 
 
-Topic: //
+Topic: Washigton DC areas/ more popular food option 
 
-Goals: //
+Goals: 
 
 
 
