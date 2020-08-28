@@ -18,7 +18,7 @@ DAY 2 :
 
 DAY 3: 
 
-Presentation deadline: 
+Presentation deadline: Saturday 5th
 
 
 Deadline:
