@@ -1,24 +1,39 @@
 # Group-Project-1
 
+Title: Data Analysis for new restaurant in Washigton DC 
+
+
 Team: Akuro, Amy, Oluwatobi
 
 
-Topic: Washigton DC areas/ more popular food option 
-
-Goals: 
+Description/Outline:  A client wants to open a restaurant in Washigton DC. What type of restaurant should they open and where in DC ? 
 
 
+Datasets: Yelp database, Census API, Postmates Api (?) 
 
 
-DAY 1 : 
+Research Question: What are the top rated restaurants in DC ? What is the most populated ethnicity on each quadrant ? 
+What are the most populars restaurant on each quadrants ?
 
 
-DAY 2 :
+#Breakout of tasks: 
+
+Amy:
+- Clean Yelp data 
+- Power point (all togheter)
 
 
-DAY 3: 
+Tobi:
+- Census informations
+- Plot for Census data(w/Amy)
 
-Presentation deadline: Saturday 5th
+Akuro: 
+- Plots for Yelp data (w/Amy)
+- Postmates clean
 
 
-Deadline:
+
+
+
+Presentation deadline: September Saturday 5th
+Deadline: Thursday September 3rd 
