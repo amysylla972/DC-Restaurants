@@ -5,6 +5,8 @@ Title: Data Analysis for new restaurant in Washigton DC
 
 Team: Akuro, Amy, Oluwatobi
 
+Code in other branches 
+
 
 Description/Outline:  A client wants to open a restaurant in Washigton DC. What type of restaurant should they open and where in DC ? 
 
