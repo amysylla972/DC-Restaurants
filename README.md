@@ -5,7 +5,7 @@ Motivation & Summary Slide
 
 Describe the questions you asked, and why you asked them
 
-We asked:
+
 
 What is the most competitive restuarant type in each DC Quadrant?
 
