@@ -14,7 +14,7 @@ This data will help identify if there is a particular restaurant type that may b
 With this question, we can identify any trends that may be related to DC's ethnicity. This will help us understand if a particular group of people impact the amount of a restaurant type in DC. If there is a trend, the new restaurant may have to serve those groups of people in some way with the new restaurant.
 
 
-# Questions & Data
+## Questions & Data
 
 What is the most competitive restaurant type in each DC Quadrant?
 Data needed by Quadrant: total number of Restaurants in DC
@@ -29,30 +29,30 @@ Data Cleanup & Exploration
 
 # Steps: 
 
-# Find a good data source 
+### Find a good data source 
 We used Yelp Api for our food data. 
 Data on ethnicity from the census were split into many pieces without location data attached to each data. So we choose DC Health's data which was already broken out by Ward and zipcodes
 
-# Determine quadrants 
+### Determine quadrants 
 We used Google maps to get the outline of the 4 quadrants in DC. Based on the outline, we picked the Wards and Zipcode data that is in each quadrant.
 
-# Load in Data
+### Load in Data
 We read our food data using Json. 
 We read in the CSV data for each quadrant by Non-Hispanic and Hispanic groups
 
-# Clean data: 
+### Clean data: 
 We used Pandas to clean the extra categories. 
 
-# Summarize and Join Groups 
+### Summarize and Join Groups 
 We summarized the Hispanic groups into one row of data and joined the Hispanic groups with Non-Hispanic data for each zip code and Ward.
 
-# Combine Data 
+### Combine Data 
 We combined the data for the zipcodes and wards and used it as our quadrant.
 
-# Plot Data 
+### Plot Data 
 We plotted the ethnic data for the quadrant. We plotted data for food. 
 
-#Repeat - We followed steps 2-6 for each quadrant for DC.
+Repeat - We followed steps 2-6 for each quadrant for DC.
 
 
 
